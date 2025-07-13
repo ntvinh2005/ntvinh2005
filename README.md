@@ -6,12 +6,12 @@
 ---
 
 ## 🚀 About Me
-- 🎓 **Student @ University of Florida (UF)**
+- 🎓 **CS Student @ University of Florida (UF)**
 - 🌐 **Passionate about distributed systems, AI, and web development**
 - 🛠 **Love building scalable apps and working with new tech**
-- 🔭 **Currently working with Go, Gin, Docker, and cloud stacks**
+- 🔭 **Currently working with Go, Gin, Docker, and Rust**
 - 💬 **Ask me about Computer Science, Machine Learning, or Fullstack Dev**
-- 📫 **Reach me:** [your.email@gmail.com](mailto:ntvinhgv@gmail.com)
+- 📫 **Reach me:** [ntvinhgv@gmail.com](mailto:ntvinhgv@gmail.com)
 
 ---
 
