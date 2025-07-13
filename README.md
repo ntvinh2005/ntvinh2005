@@ -9,8 +9,7 @@
 - 🎓 **CS Student @ University of Florida (UF)**
 - 🌐 **Passionate about distributed systems, AI, and web development**
 - 🛠 **Love building scalable apps and working with new tech**
-- 🔭 **Currently working with Go, Gin, Docker, and Rust**
-- 💬 **Ask me about Computer Science, Machine Learning, or Fullstack Dev**
+- 🔭 **Currently working with C#, Go, Gin, Docker, and Rust**
 - 📫 **Reach me:** [ntvinhgv@gmail.com](mailto:ntvinhgv@gmail.com)
 
 ---
@@ -43,6 +42,7 @@
 ### **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-222C37?style=for-the-badge&logo=unity&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![VMWare](https://img.shields.io/badge/VMWare-607078?style=for-the-badge&logo=vmware&logoColor=white)
